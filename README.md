@@ -23,3 +23,8 @@
 ![image](ChromHMM_output/Hsmm_10_RefSeqTSS_neighborhood.png)
 ![image](ChromHMM_output/transitions_10.png)
 
+## Скрины из геномного браузера
+![image](Screens/Screenshot%20from%202022-03-29%2021-45-59.png)
+![image](Screens/Screenshot%20from%202022-03-29%2021-50-33.png)
+![image](Screens/Screenshot%20from%202022-03-29%2021-52-21.png)
+
