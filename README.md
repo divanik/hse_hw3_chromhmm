@@ -1,5 +1,7 @@
 # Домашнее задание №3 (ChromHMM)
 
+Ссылка на колаб: https://colab.research.google.com/drive/1WRd0rMHbZFfAZi9M8PMwnEaadoiP8hwZ?usp=sharing
+
 ## Таблица соответствия меток и файлов
 
 |Номер|Название|Файл|
@@ -48,7 +50,7 @@
 
 На основе изучения статей были сделаны следующие выводы:
 
-|Номер|Название|Свойства|
+|Номер|Название|Функция|
 |---|---|---|
 | 1 | H3k9me3, H3k27me3 | Repressed |
 | 2 | - | Enhancer |
@@ -60,3 +62,8 @@
 | 8 | H2az| Promotor |
 | 9 | H3k4me1 | Transcribed |
 | 10| H2az, H3k9ac, H3k27ac | Promotor |
+
+Бонус:
+Смотрите файл rename.py.
+
+Скрин из геномного браузера:
